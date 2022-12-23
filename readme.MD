@@ -9,6 +9,6 @@ Your are required to create some endpoints and each endpoint must do a specific 
 5. /expense/total GET => should return the total amount of all expenses
 6. /expense/id GET => just get one expense with that specific id passed
 
-For number 3 and 4 you need to figure out the concept of params and your task is to try and figure out how to use it using the express documentation or any other resource you find.
+For number 3,4 & 6 you need to figure out the concept of params and your task is to try and figure out how to use it using the express documentation or any other resource you find.
 
 Good Luck!
