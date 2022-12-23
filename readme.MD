@@ -7,6 +7,7 @@ Your are required to create some endpoints and each endpoint must do a specific 
 3. /expense/id DELETE => should delete the specific expense by the id that is passed
 4. /expense/id PUT => should edit the specific expense and the body should include description or amount or both
 5. /expense/total GET => should return the total amount of all expenses
+6. /expense/id GET => just get one expense with that specific id passed
 
 For number 3 and 4 you need to figure out the concept of params and your task is to try and figure out how to use it using the express documentation or any other resource you find.
 
